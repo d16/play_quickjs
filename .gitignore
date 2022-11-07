@@ -1,8 +1,10 @@
 # directory
 build/
 vs*/
+.vscode/
 
 # file
 *.exe
 qjscalc.c
 repl.c
+tsc.c
